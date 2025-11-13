@@ -54,7 +54,7 @@
 
 import React, { useState } from "react";
 import "./Client.css";
-import Alex from "../assets/alex.svg";
+import Alex from "../assets/Alex.svg";
 import Linkedin from "../assets/linkedin.svg";
 import clientlogo from "../assets/clientlogo.png";
 import clientlogo2 from "../assets/clientlogo2.png";
