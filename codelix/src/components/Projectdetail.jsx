@@ -1,5 +1,5 @@
 import React from "react";
-import "./ProjectDetail.css";
+import "./Projectdetail.css";
 import ProjectImg from "../assets/ProjectImage.png"; // replace with your image
 
 const ProjectDetail = () => {
